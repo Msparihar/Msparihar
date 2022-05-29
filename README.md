@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋![Uploading WavingHiGIF.gif…]()
+<h1 align="center">Hi 👋
 , I'm Manish Singh Parihar</h1>
 <h3 align="center">I am tech enthusiast who loves coding and automating things.</h3>
 
