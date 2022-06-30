@@ -24,7 +24,7 @@ Colours used: #AE16B3 #426699
 <br>
 
 ### 🌱 Currently Learning:
-- Web Developement (👨‍💻)
+- Web Developement (😁)
 - Machine Learning (ML)
 - Data Structures and Algorithms (DSA)
 
