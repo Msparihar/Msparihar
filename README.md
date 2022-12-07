@@ -54,5 +54,5 @@ Colours used: #AE16B3 #426699
   <br>
  <img width="600px"src="https://activity-graph.herokuapp.com/graph?username=Msparihar&theme=redical">
 </p>
-
+ 
 <!-- Source for the Github Stats Card: https://github.com/anuraghazra/github-readme-stats -->
