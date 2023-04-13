@@ -100,7 +100,7 @@
   <br>
   <br>
  <a href="https://github.com/Akshu-on-github">
-    <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Msparihar&show_icons=true&hide=stars&theme=radical">
+    <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=manishsingh10895&show_icons=true&count_private=true&hide=stars&theme=radical">
   </a> 
 </p>
 
