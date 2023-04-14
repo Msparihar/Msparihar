@@ -93,13 +93,13 @@
 
 <p align = "center">
   
-   <a href="https://github.com/Akshu-on-github">
-    <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msparihar&layout=compact&theme=radical&card_width=250">
+   <a href="https://github.com/Msparihar">
+    <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradipNichite&layout=compact&theme=radical&card_width=250">
   </a>
   <br>
   <br>
   <br>
- <a href="https://github.com/Akshu-on-github">
+ <a href="https://github.com/Msparihar">
     <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=manishsingh10895&show_icons=true&count_private=true&hide=stars&theme=radical">
   </a> 
 </p>
