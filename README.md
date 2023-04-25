@@ -5,7 +5,7 @@
 <img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=55% >
 
 <h2>Hey, 🙋🏼‍♂️</h2>
-<p>I'm Manish Singh Parihar 🤠, 3th year CSE student, from VIT Bhopal</p>
+<p>I'm Manish Singh Parihar 🤠, 3rd year CSE student, from VIT Bhopal</p>
 <p>I've experienced working in max of the tech stacks in full stack web development and Machine Learning, But Backend Development is the thing that I love the most.</p>
 <p><b>All I want is a cup of coffee ☕ and opened VS Code 🙂.</b></p>
 
