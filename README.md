@@ -102,9 +102,10 @@
  <a href="https://github.com/Msparihar">
     <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=manishsingh10895&show_icons=true&count_private=true&hide=stars&theme=radical">
   </a> 
-  <a href="https://github.com/Msparihar">
-    <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Msparihar&show_icons=true&count_private=true&hide=stars&theme=radical">
-  </a>
+<!--    <a href="https://github.com/Msparihar">
+    <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Msparihar&show_icons=true&count_private=false&hide=stars&theme=radical">
+  </a>  -->
+
 </p>
 
 <hr />
