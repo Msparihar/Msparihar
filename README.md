@@ -92,7 +92,7 @@
 <p align = "center">
   
    <a href="https://github.com/Msparihar">
-    <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PradipNichite&layout=compact&theme=radical&card_width=250">
+    <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msparihar&layout=compact&theme=radical&card_width=250">
   </a>
   <br>
   <br>
