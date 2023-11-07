@@ -6,7 +6,7 @@
 
 <h2>Hey, 🙋🏼‍♂️</h2>
 <p>I'm Manish Singh Parihar 🤠, final year CSE student, from VIT Bhopal</p>
-<p>I've experienced working in max of the tech stacks in full stack web development and Machine Learning, But Backend Development is the thing that I love the most.</p>
+<p>I've experience working in max of the tech stacks in Full stack web development and Machine Learning, But Backend Development is the thing that I love the most.</p>
 <p><b>All I want is a cup of coffee ☕ and opened VS Code 🙂.</b></p>
 
 <hr />
@@ -39,7 +39,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) &nbsp;
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) &nbsp;
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp;
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) &nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -82,7 +81,7 @@
 
 <br>
 
-- AI Toolbox
+- LLM Based Chat Application 
 - Smart Fire Detection System (FDS)
 - Resume Parser using Spacy (RP)
 
