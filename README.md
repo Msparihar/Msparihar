@@ -6,7 +6,7 @@
 
 <h2>Hey, 🙋🏼‍♂️</h2>
 <p>I'm Manish Singh Parihar 🤠, final year CSE student, from VIT Bhopal</p>
-<p>I've experience working in max of the tech stacks in Full stack web development and Machine Learning, But Backend Development is the thing that I love the most.</p>
+<p>I've experience working in most of the tech stacks in Full-stack web development and Machine Learning, but I love Backend Development the most.</p>
 <p><b>All I want is a cup of coffee ☕ and opened VS Code 🙂.</b></p>
 
 <hr />
