@@ -11,7 +11,8 @@
 
 <hr />
 
-<p><b>You watch 👀 I count 😁</b></p>
+<p><b>You watch 👀 I count 😁.</b></p>
+<p>Make you're to checkout some of my repositories.</p>
 
 ![](https://komarev.com/ghpvc/?username=Msparihar&color=brightgreen)
 
