@@ -4,15 +4,15 @@
 
 <img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=55% >
 
-<h2>Hey, 🙋🏼‍♂️</h2>
+<h2>Hello Devs, 🙋🏼‍♂️</h2>
 <p>I'm Manish Singh Parihar 🤠, final year CSE student, from VIT Bhopal</p>
-<p>I've experience working in most of the tech stacks in Full-stack web development and Machine Learning, but I love Backend Development the most.</p>
+<p>I've experience working in most tech stacks such as Full-stack web development and Machine Learning, but I love Backend Development the most.</p>
 <p><b>All I want is a cup of coffee ☕ and opened VS Code 🙂.</b></p>
 
 <hr />
 
 <p><b>You watch 👀 I count 😁.</b></p>
-<p>Make you're to checkout some of my repositories.</p>
+<p>Make sure to check out some of my repositories.</p>
 
 ![](https://komarev.com/ghpvc/?username=Msparihar&color=brightgreen)
 
@@ -106,7 +106,7 @@
 
 <hr />
 
-### Reach out to me at-
+### Reach out to me at
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/msparihar/) &nbsp;
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:manishsparihar2020@gmail.com)
  
