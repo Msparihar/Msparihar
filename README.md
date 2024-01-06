@@ -87,14 +87,14 @@
 
 <br>
 
-- LLM Based Chat Application 
-- Smart Fire Detection System (FDS)
-- Resume Parser using Spacy (RP)
+- Generative AI 
+- Golang
+- System Design Patterns
 
 <hr />
 
 <p align = "center">
-  
+  <!--
    <a href="https://github.com/Msparihar">
     <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msparihar&layout=compact&theme=radical&card_width=250">
   </a>
@@ -104,13 +104,12 @@
  <a href="https://github.com/Msparihar">
     <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Msparihar&show_icons=true&count_private=true&hide=stars&theme=radical">
   </a> 
+-->
 <!--    <a href="https://github.com/Msparihar">
     <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Msparihar&show_icons=true&count_private=false&hide=stars&theme=radical">
-  </a>  -->
+  </a> 
+ -->
 
-</p>
-
-<hr />
 
 ### Reach out to me at
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/msparihar/) &nbsp;
