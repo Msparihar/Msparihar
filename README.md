@@ -6,7 +6,7 @@
 
 <h2>Hello Devs, 🙋🏼‍♂️</h2>
 <p>I'm Manish Singh Parihar 🤠 a tech geek who loves automating stuff</p>
-<p>I've experience working in most tech stacks such as Full-stack web development and Machine Learning, but I love Backend Development the most.</p>
+<p>I've experience working in most tech stacks such as DevOps and Machine Learning, but I love Backend Development the most.</p>
 <p><b>All I want is a cup of coffee ☕ and opened VS Code 🙂.</b></p>
 
 <hr />
@@ -35,8 +35,9 @@
 <br/>
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) &nbsp;
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
+![Flask](https://img.shields.io/badge/flask-%23316192.svg?style=for-the-badge&logo=flask&logoColor=white) &nbsp;
+![FastAPI](https://img.shields.io/badge/fastapi-%23316192.svg?style=for-the-badge&logo=flask&logoColor=white) &nbsp;
 <!--
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) &nbsp;
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) &nbsp;
@@ -46,9 +47,6 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) &nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 -->
-![Flask](https://img.shields.io/badge/flask-%23316192.svg?style=for-the-badge&logo=flask&logoColor=white) &nbsp;
-![FastAPI](https://img.shields.io/badge/fastapi-%23316192.svg?style=for-the-badge&logo=flask&logoColor=white) &nbsp;
-
 <hr />
 
 ### 🏪 Storaging things on ( except knowledge:) )
@@ -65,11 +63,11 @@
 
 <br />
 
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) &nbsp;
 ![AWS](https://img.shields.io/badge/AWS-%234285F4.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) &nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions%20-2088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 
 <hr />
 
@@ -94,8 +92,7 @@
 <hr />
 
 <p align = "center">
-  <!--
-   <a href="https://github.com/Msparihar">
+<!--      <a href="https://github.com/Msparihar">
     <img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Msparihar&layout=compact&theme=radical&card_width=250">
   </a>
   <br>
@@ -104,14 +101,14 @@
  <a href="https://github.com/Msparihar">
     <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Msparihar&show_icons=true&count_private=true&hide=stars&theme=radical">
   </a> 
--->
-<!--    <a href="https://github.com/Msparihar">
+<a href="https://github.com/Msparihar">
     <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=Msparihar&show_icons=true&count_private=false&hide=stars&theme=radical">
-  </a> 
- -->
+  </a>  -->
+
 
 
 ### Reach out to me at
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/manishsparihar/) &nbsp;
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:manishsparihar2020@gmail.com)
  
